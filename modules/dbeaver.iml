@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver">
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.net.sshj/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/bundles/org.jkiss.dbeaver.core.nls/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.ui.svg.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.wmi.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/localRepository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.debug.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.net.sshj.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.nls.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.svg.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/runtime-DBeaverEnterprise.product" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
+      <excludePattern pattern=".settings" />
+      <excludePattern pattern=".project" />
+      <excludePattern pattern=".classpath" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
