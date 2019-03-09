@@ -1,0 +1,1 @@
+# dbeaver-idea-project
