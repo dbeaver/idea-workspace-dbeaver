@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <content url="file://$MODULE_DIR$/../../eclipse-bundles/eclipse-bundle-bouncycastle">
+      <excludeFolder url="file://$MODULE_DIR$/../../eclipse-bundles/eclipse-bundle-bouncycastle/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
