@@ -1,1 +1,1 @@
-# dbeaver-idea-project
+# IntelliJ IDEA modules configuration for DBeaver Community
