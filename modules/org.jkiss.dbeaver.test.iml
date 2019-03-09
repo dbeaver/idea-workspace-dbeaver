@@ -12,14 +12,5 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../dbeaver-ee/drivers/com.dbeaver.resources.drivers.mysql/drivers/mysql/mysql-connector-java-5.1.44.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
   </component>
 </module>
