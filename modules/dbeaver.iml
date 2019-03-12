@@ -15,6 +15,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.nls.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.svg.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/runtime-DBeaverEnterprise.product" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
