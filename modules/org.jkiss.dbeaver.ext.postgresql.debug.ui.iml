@@ -17,5 +17,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql.debug.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.utils" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql.ui" />
   </component>
 </module>
