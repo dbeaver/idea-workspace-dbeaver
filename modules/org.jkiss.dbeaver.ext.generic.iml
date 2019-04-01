@@ -8,8 +8,10 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.generic/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" exported="" />
     <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
   </component>
 </module>
