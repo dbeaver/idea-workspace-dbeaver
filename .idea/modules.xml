@@ -53,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.feature.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.netezza.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.netezza.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.office.feature.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.office.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.oracle.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.ext.oracle.iml" />
