@@ -21,5 +21,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.sql" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.cmp.simple.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" exported="" />
   </component>
 </module>
