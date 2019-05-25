@@ -81,6 +81,7 @@
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.intro.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.lang.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.lang.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.model.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.model.sql.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.model.sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.jsch.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.jsch.iml" />
       <module fileurl="file://$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" filepath="$PROJECT_DIR$/../dbeaver-idea-project/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" />
