@@ -16,5 +16,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
   </component>
 </module>
