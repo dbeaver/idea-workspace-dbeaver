@@ -5,6 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.slf4j">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.slf4j/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.slf4j/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
