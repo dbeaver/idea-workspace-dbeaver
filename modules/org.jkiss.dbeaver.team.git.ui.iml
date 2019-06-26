@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.team.git.ui/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.team.git.ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.team.git.ui/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.team.git.ui/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" exported="" name="ECLIPSE" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" exported="" />
+  </component>
+</module>
