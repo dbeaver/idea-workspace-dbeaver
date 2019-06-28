@@ -4,6 +4,7 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver">
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.git.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.net.sshj/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/bundles/org.jkiss.dbeaver.core.nls/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.ui.svg.nls.feature/target" />
