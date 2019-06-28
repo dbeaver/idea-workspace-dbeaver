@@ -11,6 +11,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/localRepository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.debug.repository/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.git.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.net.sshj.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.nls.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.office.repository/target" />
