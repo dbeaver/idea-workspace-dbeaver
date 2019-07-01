@@ -14,5 +14,6 @@
     <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Apache POI" level="application" />
+    <orderEntry type="library" name="ApachePOI" level="application" />
   </component>
 </module>
