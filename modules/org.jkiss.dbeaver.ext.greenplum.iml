@@ -5,13 +5,16 @@
     <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/target/test-classes" />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.greenplum/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" scope="TEST" name="JUNIT" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
   </component>
 </module>
