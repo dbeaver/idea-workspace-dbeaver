@@ -13,6 +13,5 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh" exported="" />
-    <orderEntry type="module" module-name="eclipse-bundle-sshj" />
   </component>
 </module>
