@@ -23,11 +23,17 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.ext.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
-      <excludePattern pattern=".settings" />
-      <excludePattern pattern=".project" />
-      <excludePattern pattern=".classpath" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.equinox.launcher_1.5.300.v20190213-1655.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
