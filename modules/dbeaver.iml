@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/bundles/org.jkiss.dbeaver.core.nls/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.ui.svg.nls.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.wmi.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/appstore/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/localRepository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ce.repository/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.debug.repository/target" />
