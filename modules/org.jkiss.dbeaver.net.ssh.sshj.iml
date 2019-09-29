@@ -13,5 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh" exported="" />
+    <orderEntry type="library" name="org.jkiss.bundle.sshj_0.27" level="application" />
   </component>
 </module>
