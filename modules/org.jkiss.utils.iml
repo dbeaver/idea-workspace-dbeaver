@@ -5,9 +5,11 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../dbeaver/bundles/org.jkiss.utils">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/bundles/org.jkiss.utils/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/bundles/org.jkiss.utils/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/bundles/org.jkiss.utils/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="JUNIT" level="application" />
   </component>
 </module>
