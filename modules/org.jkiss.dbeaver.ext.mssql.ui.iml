@@ -13,5 +13,9 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.mssql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
   </component>
 </module>
