@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
   </component>
 </module>
