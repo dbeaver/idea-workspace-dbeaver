@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
   </component>
 </module>
