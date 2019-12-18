@@ -13,5 +13,6 @@
     <orderEntry type="library" name="ECLIPSE" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
   </component>
 </module>
