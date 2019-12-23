@@ -17,5 +17,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
   </component>
 </module>
