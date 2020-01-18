@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.data.console/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.data.console">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.data.console/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.data.console/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ApachePOI" level="application" />
+  </component>
+</module>
