@@ -1,17 +1,12 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Debug DBeaver Community" type="Application" factoryName="Application">
-    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="ALTERNATIVE_JRE_PATH" value="11" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <option name="MAIN_CLASS_NAME" value="org.eclipse.equinox.launcher.Main" />
-    <option name="VM_PARAMETERS" />
-    <option name="PROGRAM_PARAMETERS" value="-launcher c:\Java\eclipse-2019-03\eclipse.exe -name DBeaver -product org.jkiss.dbeaver.core.application.product -configuration &quot;file:$PROJECT_DIR$/../dbeaver-workspace-eclipse/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/&quot; -dev &quot;file:$PROJECT_DIR$/../dbeaver-workspace-eclipse/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties&quot; -os win32 -ws win32 -arch x86_64 -nl en -showsplash -vmargs -Xmx1024M" />
-    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-    <option name="ALTERNATIVE_JRE_PATH" />
-    <option name="ENABLE_SWING_INSPECTOR" value="false" />
-    <option name="ENV_VARIABLES" />
-    <option name="PASS_PARENT_ENVS" value="true" />
     <module name="dbeaver" />
-    <envs />
-    <method />
+    <option name="PROGRAM_PARAMETERS" value="-launcher c:\Java\eclipse-2019-12\eclipse.exe -name DBeaver -product org.jkiss.dbeaver.ui.app.standalone.product -configuration &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/&quot; -dev &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties&quot; -os win32 -ws win32 -arch x86_64 -nl en -showsplash -vmargs -Xmx1024M" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
   </configuration>
 </component>

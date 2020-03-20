@@ -25,7 +25,16 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
