@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse">
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.core.eclipse/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.app.eclipse/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
