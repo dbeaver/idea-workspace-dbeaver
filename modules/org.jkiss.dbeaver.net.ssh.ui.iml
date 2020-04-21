@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh.jsch" />
   </component>
 </module>
