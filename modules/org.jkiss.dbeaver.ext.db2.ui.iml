@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.db2.ui/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.db2.ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.db2.ui/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.db2.ui/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
+    <orderEntry type="module" module-name="com.dbeaver.model.sql.plan" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.sql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.db2" />
+  </component>
+</module>
