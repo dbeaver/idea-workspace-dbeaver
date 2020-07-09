@@ -20,5 +20,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.db2" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
   </component>
 </module>
