@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.erd/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.erd">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.erd/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.erd/target" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.erd.ui">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.erd.ui/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.erd.ui/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
