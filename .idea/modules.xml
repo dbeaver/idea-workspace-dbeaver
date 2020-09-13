@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.debug.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.erd.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.athena.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" />
