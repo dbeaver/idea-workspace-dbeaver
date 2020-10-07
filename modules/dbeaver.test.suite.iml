@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="JUNIT" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+  </component>
+</module>

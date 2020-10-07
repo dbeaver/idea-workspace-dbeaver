@@ -5,6 +5,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql">
       <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.postgresql/target" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -16,5 +17,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="library" scope="TEST" name="JUNIT" level="application" />
   </component>
 </module>
