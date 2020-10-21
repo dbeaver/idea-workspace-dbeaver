@@ -17,6 +17,5 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
-    <orderEntry type="library" scope="TEST" name="JUNIT" level="application" />
   </component>
 </module>

@@ -9,10 +9,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="application" />
-    <orderEntry type="library" name="JUNIT" level="application" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.greenplum" />
   </component>
 </module>
