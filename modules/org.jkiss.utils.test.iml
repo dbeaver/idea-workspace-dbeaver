@@ -10,5 +10,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
   </component>
 </module>
