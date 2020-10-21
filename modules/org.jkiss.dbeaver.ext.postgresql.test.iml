@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.postgresql.test/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.postgresql.test/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.postgresql.test">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.postgresql.test/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.postgresql.test/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="JUNIT" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.postgresql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+  </component>
+</module>

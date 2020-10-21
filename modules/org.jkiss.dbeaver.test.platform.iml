@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target/classes" />
     <output-test url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target/test-classes" />
-    <content url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.test.platform">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.test.platform/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.test.platform/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="library" name="ECLIPSE" level="application" />
