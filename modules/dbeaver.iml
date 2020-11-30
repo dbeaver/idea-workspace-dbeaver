@@ -21,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/workspace" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/runtime-DBeaverEnterprise.product" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.ext.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />

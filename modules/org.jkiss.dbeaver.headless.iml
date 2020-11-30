@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.headless/target/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.headless">
-      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.headless/src" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.headless">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.headless/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
