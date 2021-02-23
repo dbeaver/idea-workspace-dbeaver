@@ -8,11 +8,12 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.ui.svg/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.erd.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.utils" />
+    <orderEntry type="library" name="SDK Batik" level="project" />
   </component>
 </module>

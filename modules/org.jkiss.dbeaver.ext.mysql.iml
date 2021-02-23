@@ -10,10 +10,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
-    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="library" name="SDK GIS" level="project" />
   </component>
 </module>

@@ -9,10 +9,10 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.net.ssh.sshj/target/classes" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.net.ssh" exported="" />
-    <orderEntry type="library" name="org.jkiss.bundle.sshj_0.27" level="application" />
+    <orderEntry type="library" name="SDK SSHJ" level="project" />
   </component>
 </module>

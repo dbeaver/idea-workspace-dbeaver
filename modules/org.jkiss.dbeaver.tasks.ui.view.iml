@@ -8,7 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.tasks.ui.view/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="library" exported="" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />

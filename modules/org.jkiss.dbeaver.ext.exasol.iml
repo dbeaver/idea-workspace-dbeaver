@@ -11,7 +11,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.ui.locks" />
-    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
