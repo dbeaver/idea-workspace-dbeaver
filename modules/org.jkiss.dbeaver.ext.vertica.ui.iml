@@ -8,8 +8,11 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.vertica.ui/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.vertica" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
