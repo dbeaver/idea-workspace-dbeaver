@@ -23,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/standalone/workspace" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/runtime-DBeaverEnterprise.product" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/dbeaver.test.suite/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.oracle.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.ext.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/test/org.jkiss.dbeaver.headless/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.ext.test/target" />
@@ -34,7 +35,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../../java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
+          <root url="jar://C:/java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
