@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
+    <orderEntry type="library" name="SDK GIS" level="project" />
   </component>
 </module>
