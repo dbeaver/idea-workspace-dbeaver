@@ -9,6 +9,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/bundles/org.jkiss.dbeaver.core.nls/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.ui.svg.nls.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/nls/features/org.jkiss.dbeaver.ext.wmi.nls.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.databricks/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/appstore/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/community/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/localRepository/target" />
@@ -35,7 +36,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../../../java/eclipse-2019-12/plugins/org.eclipse.equinox.launcher_1.5.600.v20191014-2022.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
