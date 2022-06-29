@@ -30,6 +30,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.ext.test/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.app.base.feature/target" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
