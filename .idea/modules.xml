@@ -119,6 +119,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.sshj.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.sshj.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.sshj.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.parser.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.rcp.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.rcp.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.registry.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.runtime.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.runtime.feature.iml" />
