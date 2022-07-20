@@ -31,6 +31,19 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/tests/org.jkiss.dbeaver.runtime.ide.core.tests/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/workspace" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.app.base.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ui.extra.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.standalone.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.runtime.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.rcp.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ide.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ext.ui.svg.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ext.office.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.debug.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.db.ui.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.appstore.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ce.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.db.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ui.feature/target" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
