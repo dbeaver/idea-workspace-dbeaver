@@ -44,6 +44,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ce.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.db.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ui.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.app.local.feature/target" />
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
