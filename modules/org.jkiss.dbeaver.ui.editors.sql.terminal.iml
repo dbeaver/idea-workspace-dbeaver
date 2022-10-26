@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql.terminal/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql.terminal/target/test-classes" />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql.terminal">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql.terminal/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ui.editors.sql.terminal/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.sql" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+  </component>
+</module>

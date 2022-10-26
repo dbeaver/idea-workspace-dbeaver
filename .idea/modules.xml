@@ -151,6 +151,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.session.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.session.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sessions.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sessions.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.terminal.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.sql.terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.xml.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.editors.xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.extra.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.extra.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.feature.iml" />
