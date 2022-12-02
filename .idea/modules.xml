@@ -38,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.bigquery.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.clickhouse.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.databricks.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.databricks.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.datavirtuality.ui.iml" />
@@ -73,6 +74,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mssql.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.mysql.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.netezza.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.netezza.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.oceanbase.iml" />
