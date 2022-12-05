@@ -12,5 +12,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.sqlite" />
   </component>
 </module>
