@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.clickhouse" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
     <orderEntry type="library" name="JUNIT" level="application" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
   </component>
 </module>
