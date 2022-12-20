@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.event/target/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
+  </component>
+</module>
