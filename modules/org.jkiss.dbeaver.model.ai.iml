@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.ai/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.ai">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.ai/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.ai/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+    <orderEntry type="library" exported="" name="GPT" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
