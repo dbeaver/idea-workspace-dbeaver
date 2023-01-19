@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.vertica" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

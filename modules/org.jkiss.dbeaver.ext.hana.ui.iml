@@ -17,5 +17,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.hana" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
   </component>
 </module>
