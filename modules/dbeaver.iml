@@ -45,6 +45,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.db.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ui.feature/target" />
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.app.local.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/features/org.jkiss.dbeaver.ext.ai.feature/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/product/repositories/org.jkiss.dbeaver.ai.repository/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
