@@ -10,8 +10,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SDK GPT3" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
   </component>
 </module>
