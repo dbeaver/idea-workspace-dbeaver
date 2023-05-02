@@ -19,5 +19,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
   </component>
 </module>
