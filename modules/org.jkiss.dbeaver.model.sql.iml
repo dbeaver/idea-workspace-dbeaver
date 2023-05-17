@@ -14,5 +14,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
   </component>
 </module>
