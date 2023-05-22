@@ -15,7 +15,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" exported="" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.hex" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.sql" exported="" />
@@ -23,5 +22,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.cmp.simple.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.connection" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" exported="" />
   </component>
 </module>
