@@ -13,12 +13,12 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.base" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.data" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer.ui" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native.ui" />
   </component>
 </module>
