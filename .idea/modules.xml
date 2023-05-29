@@ -100,6 +100,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sqlite.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.teradata.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.trino.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.colortheme.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.colortheme.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.locks.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.locks.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.svg.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.ui.svg.iml" />
