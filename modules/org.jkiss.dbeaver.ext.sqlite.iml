@@ -14,5 +14,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="library" name="SDK GIS" level="project" />
+    <orderEntry type="library" name="SDK ANTLR4" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
   </component>
 </module>
