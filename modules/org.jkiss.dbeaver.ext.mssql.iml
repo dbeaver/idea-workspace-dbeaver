@@ -13,7 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
-    <orderEntry type="library" name="SDK ANTLR4" level="project" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
   </component>
 </module>
