@@ -8,7 +8,7 @@
       <excludeFolder url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.ext.mysql/target" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
     <orderEntry type="library" name="SDK GIS" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" exported="" />
   </component>
 </module>

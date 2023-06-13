@@ -18,5 +18,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.native" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
     <orderEntry type="library" name="SDK GIS" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" />
   </component>
 </module>
