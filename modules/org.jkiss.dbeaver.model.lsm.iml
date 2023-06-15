@@ -15,6 +15,7 @@
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
-    <orderEntry type="library" name="SDK ANTLR4" level="project" />
+    <orderEntry type="library" exported="" name="SDK ANTLR4" level="project" />
+    <orderEntry type="module" module-name="com.dbeaver.model" />
   </component>
 </module>
