@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="library" name="SDK ANTLR4" level="project" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" />
   </component>
 </module>
