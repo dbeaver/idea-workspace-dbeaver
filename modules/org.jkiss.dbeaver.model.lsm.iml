@@ -16,5 +16,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
     <orderEntry type="library" name="SDK ANTLR4" level="project" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
   </component>
 </module>
