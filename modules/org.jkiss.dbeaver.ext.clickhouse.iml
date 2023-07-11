@@ -13,7 +13,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.parser" />
     <orderEntry type="library" name="SDK ANTLR4" level="project" />
   </component>
 </module>
