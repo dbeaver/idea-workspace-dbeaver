@@ -58,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.format.sqlworkbenchj.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.generic.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.greenplum.test.iml" />
@@ -93,6 +94,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.postgresql.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sample.database.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.sample.database.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.snowflake.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.spanner.ui.iml" />
