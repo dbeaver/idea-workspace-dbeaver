@@ -13,6 +13,6 @@
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.dpi" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.dpi.model" />
   </component>
 </module>
