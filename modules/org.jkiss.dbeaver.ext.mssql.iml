@@ -16,5 +16,14 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.lsm" />
+    <orderEntry type="module-library">
+      <library name="mssql jdbc">
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../java/mssql-jdbc/src/main/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
