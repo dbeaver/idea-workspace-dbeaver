@@ -119,6 +119,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.lang.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.lang.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.websocket.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.websocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.sql.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.net.ssh.iml" />
