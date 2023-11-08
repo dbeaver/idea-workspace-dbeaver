@@ -67,6 +67,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2gis.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.h2gis.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hana.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hive.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hsqldb.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.hsqldb.iml" />
