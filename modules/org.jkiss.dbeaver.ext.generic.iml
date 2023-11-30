@@ -11,7 +11,6 @@
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model" exported="" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" exported="" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.registry" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.jdbc" exported="" />
   </component>
