@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.model.sql" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.transfer" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
+    <orderEntry type="library" name="SDK JSVG" level="project" />
   </component>
 </module>
