@@ -13,5 +13,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.altibase" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.editors.session" />
   </component>
 </module>
