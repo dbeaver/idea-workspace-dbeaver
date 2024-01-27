@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest">
+      <sourceFolder url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/src/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../dbeaver-common/modules/org.jkiss.common.rest/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ECLIPSE" level="project" />
+  </component>
+</module>

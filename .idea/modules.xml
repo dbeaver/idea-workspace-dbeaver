@@ -117,7 +117,6 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.vertica.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.wmi.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.wmi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.wmi.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.wmi.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.git.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.git.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.headless.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.headless.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ide.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ide.feature.iml" />
@@ -173,7 +172,6 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.wmi.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.wmi.iml" />
     </modules>
   </component>
 </project>
