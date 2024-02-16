@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module" serialisationVersion="2">
+    <option name="activeLocationsIds" />
+  </component>
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../dbeaver/plugins/org.jkiss.dbeaver.model.lsm/target/classes" />
     <exclude-output />
@@ -16,6 +19,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.utils" exported="" />
     <orderEntry type="library" exported="" name="SDK ANTLR4" level="project" />
-    <orderEntry type="module" module-name="com.dbeaver.model" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
   </component>
 </module>
