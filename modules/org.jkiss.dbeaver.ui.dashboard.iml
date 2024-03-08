@@ -16,6 +16,7 @@
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.navigator" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui.charts" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.tasks.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model.dashboard" exported="" />
     <orderEntry type="library" name="SDK JFreeChart" level="project" />
   </component>
 </module>
