@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/modules/dbeaver.iml" filepath="$PROJECT_DIR$/modules/dbeaver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dbeaver-idea-project.iml" filepath="$PROJECT_DIR$/dbeaver-idea-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/dbeaver.wiki.iml" filepath="$PROJECT_DIR$/modules/dbeaver.wiki.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-jfreechart.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-jfreechart.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-sshj.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-sshj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea-workspace-dbeaver.iml" filepath="$PROJECT_DIR$/idea-workspace-dbeaver.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.appstore.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.appstore.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.repository.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ce.repository.iml" />
@@ -128,6 +128,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ide.feature.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ide.feature.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.intro.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.lang.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" />

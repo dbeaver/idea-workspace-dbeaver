@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SDK JFreeChart">
+    <CLASSES>
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.jfreechart_1.0.23/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.jfreechart_1.0.23/lib" recursive="false" />
+  </library>
+</component>

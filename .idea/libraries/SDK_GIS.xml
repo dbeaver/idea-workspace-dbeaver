@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SDK GIS">
+    <CLASSES>
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.gis_2.0.7/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.gis_2.0.7/lib" recursive="false" />
+  </library>
+</component>

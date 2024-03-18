@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SDK Batik">
+    <CLASSES>
+      <root url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.batik_1.14.0/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$ECLIPSE_PATH$/plugins/org.jkiss.bundle.apache.batik_1.14.0/lib" recursive="false" />
+  </library>
+</component>
