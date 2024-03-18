@@ -3,11 +3,11 @@
     <CLASSES>
       <root url="file://$ECLIPSE_PATH$/plugins" />
       <root url="file://$ECLIPSE_PATH$/plugins/com.sun.jna_5.13.0.v20230812-1000" />
+      <root url="file://$ECLIPSE_PATH$/plugins/com.sun.jna_5.14.0.v20231211-1200" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$ECLIPSE_PATH$/plugins" />
-      <root url="file://$PROJECT_DIR$/../../../java/commons-jexl/src/main/java" />
     </SOURCES>
     <jarDirectory url="file://$ECLIPSE_PATH$/plugins" recursive="false" />
     <jarDirectory url="file://$ECLIPSE_PATH$/plugins" recursive="false" type="SOURCES" />
