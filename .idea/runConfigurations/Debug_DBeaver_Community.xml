@@ -1,12 +1,30 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Debug DBeaver Community" type="Application" factoryName="Application">
-    <option name="ALTERNATIVE_JRE_PATH" value="17" />
-    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-    <option name="MAIN_CLASS_NAME" value="org.eclipse.equinox.launcher.Main" />
-    <module name="dbeaver" />
-    <option name="PROGRAM_PARAMETERS" value="-launcher c:\Java\eclipse-2019-12\eclipse.exe -name DBeaver -product org.jkiss.dbeaver.ui.app.standalone.product -configuration &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/&quot; -dev &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties&quot; -os win32 -ws win32 -arch x86_64 -nl en -showsplash -vmargs -Xmx1024M" />
-    <method v="2">
-      <option name="Make" enabled="true" />
-    </method>
+  <configuration default="false" name="Generate DBeaver CE dev props" type="MavenRunConfiguration" factoryName="Maven" folderName="Eclipse dev properties">
+    <MavenSettings>
+      <option name="myGeneralSettings" />
+      <option name="myRunnerSettings" />
+      <option name="myRunnerParameters">
+        <MavenRunnerParameters>
+          <option name="profiles">
+            <set />
+          </option>
+          <option name="goals">
+            <list>
+              <option value="package" />
+              <option value="-q" />
+              <option value="exec:java" />
+              <option value="-Dexec.args=-config $PROJECT_DIR$/rcp-gen.properties -productFile $PROJECT_DIR$/../dbeaver/product/community/DBeaver.product -projectsFolder $PROJECT_DIR$/../ -eclipse $ECLIPSE_PATH$ -output $PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product" />
+            </list>
+          </option>
+          <option name="pomFileName" />
+          <option name="profilesMap">
+            <map />
+          </option>
+          <option name="resolveToWorkspace" value="false" />
+          <option name="workingDirPath" value="$PROJECT_DIR$/../idea-rcp-launch-config-generator" />
+        </MavenRunnerParameters>
+      </option>
+    </MavenSettings>
+    <method v="2" />
   </configuration>
 </component>
