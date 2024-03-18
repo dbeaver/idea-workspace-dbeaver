@@ -3,7 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../dbeaver" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../dbeaver-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../eclipse-bundles/eclipse-bundle-apache-poi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../dbeaver.wiki" vcs="Git" />
   </component>
 </project>

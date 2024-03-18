@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Eclipse (CE)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.jkiss.dbeaver.launcher.DBeaverLauncher" />
+    <module name="org.jkiss.dbeaver.launcher" />
+    <option name="PROGRAM_PARAMETERS" value="-launcher $ECLIPSE_PATH$/eclipse.exe -name DBeaver -product org.jkiss.dbeaver.ui.app.standalone.product -configuration &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/&quot; -dev &quot;file:$PROJECT_DIR$/../eclipse/workspace/.metadata/.plugins/org.eclipse.pde.core/DBeaver.product/dev.properties&quot; -nl en -consoleLog -showsplash -data ${APPDATA}\DBeaverData\workspace6\ -vmargs -Xmx1024M" />
+    <option name="VM_PARAMETERS" value="--add-opens=java.base/java.nio=ALL-UNNAMED" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
