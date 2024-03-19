@@ -12,5 +12,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="SDK JSVG" level="project" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ui" />
+    <orderEntry type="module" module-name="org.jkiss.dbeaver.model" />
   </component>
 </module>
