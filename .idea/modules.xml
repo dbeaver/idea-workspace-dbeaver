@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dbeaver-common.iml" filepath="$PROJECT_DIR$/dbeaver-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/dbeaver.iml" filepath="$PROJECT_DIR$/modules/dbeaver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/dbeaver.wiki.iml" filepath="$PROJECT_DIR$/modules/dbeaver.wiki.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-batik.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-apache-poi.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" filepath="$PROJECT_DIR$/modules/eclipse-bundle-bouncycastle.iml" />
@@ -58,7 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.denodo.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.derby.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.duckdb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.elasticsearch.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.erd.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.erd.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.ui.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.es.ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ext.exasol.iml" />
@@ -131,6 +131,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.launcher.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dashboard.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.dataset.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.event.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.model.jdbc.iml" />
@@ -185,6 +186,7 @@
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.navigator.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.navigator.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.search.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.statistics.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.statistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.dbeaver.ui.swt.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" filepath="$PROJECT_DIR$/modules/org.jkiss.utils.test.iml" />
     </modules>
