@@ -11,6 +11,5 @@
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
   </component>
 </module>

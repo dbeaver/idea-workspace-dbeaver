@@ -11,7 +11,6 @@
     <orderEntry type="library" name="ECLIPSE" level="project" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.ext.generic" />
-    <orderEntry type="module" module-name="org.jkiss.dbeaver.core" />
     <orderEntry type="module" module-name="org.jkiss.dbeaver.data.gis" />
     <orderEntry type="library" name="SDK GIS" level="project" />
   </component>
